@@ -25,17 +25,17 @@ Dateien klonen und app.mjs im Browser bzw. über einen lokalen Server starten (E
 Struktur
 
 
-app.mjs
+app.mjs:
 Einstieg & Spielablauf
 
 
-fetch.mjs
+fetch.mjs:
 API-Anbindung inkl. AbortController & Retry
 
 
-fight.mjs
+fight.mjs:
 Kampf-Logik (Reducer)
 
 
-rndNum.mjs
+rndNum.mjs:
 Zufalls-Helfer
