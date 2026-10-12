@@ -1,9 +1,9 @@
-Pokémon Battle Simulator
+Pokémon Battle Simulator:
 
 Ein rundenbasierter Pokémon-Kampf in Vanilla JavaScript – Pokémon und Attacken werden live von der PokeAPI geladen.
 
 
-Features
+Features:
 
 
 Live-Daten via REST-API (fetch), Kampf-KI für den Gegner
@@ -13,16 +13,17 @@ Robuste API-Anbindung: Promise.all für parallele Requests, AbortController für
 State-Management über das Reducer-Pattern (immutable, pure Funktionen)
 
 
-Tech Stack
+Tech Stack:
 
 JavaScript (ES6-Module, .mjs) · fetch/REST · HTML/CSS
 
 
-Starten
+Starten:
 
 Dateien klonen und app.mjs im Browser bzw. über einen lokalen Server starten (ES-Module erfordern http, kein file://).
 
-Struktur
+
+Struktur:
 
 
 app.mjs:
